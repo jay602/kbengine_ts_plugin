@@ -749,7 +749,7 @@ export function InitDatatypeMapping()
     idToDatatype[8] = datatypes["INT32"];
     idToDatatype[9] = datatypes["INT64"];
 
-    idToDatatype[10] = datatypes["PYTHON"];
+    idToDatatype[10] = datatypes["ENTITYCALL"];
     idToDatatype[11] = datatypes["BLOB"];
     idToDatatype[12] = datatypes["UNICODE"];
     idToDatatype[13] = datatypes["FLOAT"];
